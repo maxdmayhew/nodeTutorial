@@ -1,0 +1,26 @@
+{
+  "name": "HTML5 tutorial",
+  "homepage": "https://github.com/maxdmayhew/nodeTutorial",
+  "authors": [
+    "Max <maxDmayhew@gmail.com>"
+  ],
+  "description": "a tutorial",
+  "main": "n/a",
+  "moduleType": [],
+  "keywords": [
+    "this"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#~1.4.7",
+    "bootstrap": "~3.3.5"
+  }
+}

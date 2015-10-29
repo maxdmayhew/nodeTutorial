@@ -1,0 +1,11 @@
+.badFont {
+  font-family: 'BAD', Arial, sans-serif; }
+
+h1, h2 {
+  font-size: 2em;
+  font-weight: bold;
+  color: blue;
+  font-family: Arial, Tahoma, sans-serif;
+  padding: 8px 10px; }
+
+/*# sourceMappingURL=custom.css.map */
